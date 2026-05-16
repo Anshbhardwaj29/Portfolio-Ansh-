@@ -1,0 +1,160 @@
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-8.0.1\fftools\resources\graph.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-8.0.1\tools\bookmarklets.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\community.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\developer.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\drawvg-reference.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\faq.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\fate.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-all.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-bitstream-filters.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-codecs.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-devices.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-filters.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-formats.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-protocols.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-resampler.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-scaler.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-utils.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffplay-all.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffplay.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffprobe-all.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\ffprobe.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\general.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\git-howto.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\libavcodec.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\libavdevice.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\libavfilter.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\libavformat.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\libavutil.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\libswresample.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\libswscale.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\mailing-list-faq.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\nut.html
+c:/Data main folder\AGENT MISTY mental health councellor\ffmpeg-master-latest-win64-gpl\doc\platform.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\isapi\doc\isapi.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\numba\core\annotations\template.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\torch\utils\model_dump\skeleton.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32com\readme.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32com\HTML\COM_Records.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32com\HTML\docindex.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32com\HTML\GeneratedSupport.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32com\HTML\index.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32com\HTML\misc.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32com\HTML\package.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32com\HTML\PythonCOM.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32com\HTML\QuickStartClientCom.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32com\HTML\QuickStartServerCom.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32com\HTML\variant.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32comext\axscript\Demos\client\asp\interrupt\test.html
+c:/Data main folder\AGENT MISTY mental health councellor\whisper_env\Lib\site-packages\win32comext\axscript\Demos\client\asp\interrupt\test1.html
+c:/Data main folder\AuraAI\Aura-AI\index.html
+c:/Data main folder\AuraAI\Aura-AI\dist\index.html
+c:/Data main folder\AuraAI\Aura-AI\node_modules\tslib\tslib.es6.html
+c:/Data main folder\AuraAI\Aura-AI\node_modules\tslib\tslib.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-8.0.1\fftools\resources\graph.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-8.0.1\tools\bookmarklets.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\community.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\developer.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\drawvg-reference.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\faq.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\fate.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-all.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-bitstream-filters.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-codecs.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-devices.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-filters.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-formats.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-protocols.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-resampler.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-scaler.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg-utils.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffmpeg.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffplay-all.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffplay.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffprobe-all.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\ffprobe.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\general.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\git-howto.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\libavcodec.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\libavdevice.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\libavfilter.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\libavformat.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\libavutil.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\libswresample.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\libswscale.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\mailing-list-faq.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\nut.html
+c:/Data main folder\backup code for agent misty mental councellor\ffmpeg-master-latest-win64-gpl\doc\platform.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\isapi\doc\isapi.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\numba\core\annotations\template.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\torch\utils\model_dump\skeleton.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32com\readme.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32com\HTML\COM_Records.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32com\HTML\docindex.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32com\HTML\GeneratedSupport.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32com\HTML\index.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32com\HTML\misc.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32com\HTML\package.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32com\HTML\PythonCOM.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32com\HTML\QuickStartClientCom.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32com\HTML\QuickStartServerCom.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32com\HTML\variant.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32comext\axscript\Demos\client\asp\interrupt\test.html
+c:/Data main folder\backup code for agent misty mental councellor\whisper_env\Lib\site-packages\win32comext\axscript\Demos\client\asp\interrupt\test1.html
+c:/Data main folder\InstaExplorer\backend\venv\Lib\site-packages\numba\core\annotations\template.html
+c:/Data main folder\InstaExplorer\frontend\node_modules\decimal.js-light\doc\API.html
+c:/Data main folder\InstaExplorer\frontend\node_modules\next\dist\bundle-analyzer\404.html
+c:/Data main folder\InstaExplorer\frontend\node_modules\next\dist\bundle-analyzer\index.html
+c:/Data main folder\InstaExplorer\frontend\node_modules\next\dist\bundle-analyzer\_not-found.html
+c:/Data main folder\InstaExplorer\frontend\node_modules\recharts\umd\report.html
+c:/Data main folder\InstaExplorer\frontend\node_modules\tslib\tslib.es6.html
+c:/Data main folder\InstaExplorer\frontend\node_modules\tslib\tslib.html
+---
+c:/Data main folder\awareness for children in cyber.pdf
+c:/Data main folder\bootstrapping-and-unsupervised-methods-in-nlp.pdf
+c:/Data main folder\Admit card for SU\semester 1.pdf
+c:/Data main folder\big data\Big Data Practice Project Rubric Form .pdf
+c:/Data main folder\big data\Big Data Working Project Rubric Form .pdf
+c:/Data main folder\community connect\Cyber_Awareness_Report_Professional.pdf
+c:/Data main folder\conference paper\10 (1).pdf
+c:/Data main folder\InstaExplorer\Portfolio-Ansh-\img\Ansh Resume.pdf
+c:/Data main folder\kotlin file\4 questions last.pdf
+c:/Data main folder\kotlin file\ansh Kotlin Lab File Cover page.pdf
+c:/Data main folder\kotlin file\Exercise 1-4.pdf
+c:/Data main folder\kotlin file\Index.pdf
+c:/Data main folder\kotlin file\Kotlin Exercise 5-10.pdf
+c:/Data main folder\Main content for all subjects\syllabus mtech 1st year.pdf
+c:/Data main folder\Portfolio-Ansh-\img\data analyst Resume Ansh Bhardwaj.pdf
+c:/Data main folder\RBL related work\Sharda University Mail - ICDAM 2026_ Paper Notification for Paper ID ICDAM2026-V36.pdf
+c:/Data main folder\RBL related work\Sharda University Mail - Thanks for filling out this form_ Community Connect 2502 - Cyber Security Awareness Survey (Post).pdf
+c:/Data main folder\RBL related work\book chapter content\1.pdf
+c:/Data main folder\RBL related work\book chapter content\10.pdf
+c:/Data main folder\RBL related work\book chapter content\11.pdf
+c:/Data main folder\RBL related work\book chapter content\12.pdf
+c:/Data main folder\RBL related work\book chapter content\14.pdf
+c:/Data main folder\RBL related work\book chapter content\15.pdf
+c:/Data main folder\RBL related work\book chapter content\16.pdf
+c:/Data main folder\RBL related work\book chapter content\2.pdf
+c:/Data main folder\RBL related work\book chapter content\3.pdf
+c:/Data main folder\RBL related work\book chapter content\4.pdf
+c:/Data main folder\RBL related work\book chapter content\6.pdf
+c:/Data main folder\RBL related work\book chapter content\9.pdf
+c:/Data main folder\RBL related work\model related paper\1-s2.0-S2405844024011435-main.pdf
+c:/Data main folder\RBL related work\model related paper\dataset\1 dataset4\4. List of references.pdf
+c:/Data main folder\RBL related work\rbl data\Aditya- Project Synopsis - Eval copy.pdf
+c:/Data main folder\RBL related work\rbl data\Ansh report updated on 20 april 2026.pdf
+c:/Data main folder\RBL related work\rbl data\Conference Management Toolkit - Submission Summary.pdf
+c:/Data main folder\RBL related work\rbl data\Intercropping_Review_Paper (3).pdf
+c:/Data main folder\RBL related work\rbl data\_PPT_Evaluation_0 (2).pdf
+c:/Data main folder\RBL related work\rbl related research paper\20_Research_Papers_Links.pdf
+c:/Data main folder\resumes\data analyst Resume Ansh Bhardwaj.pdf
+c:/Data main folder\RM\1.pdf
+c:/Data main folder\RM\2.pdf
+c:/Data main folder\RM\Ansh_bhardwaj_2025334440 updated.pdf
+c:/Data main folder\up scholarship data for SU\check karane ko form.pdf
+c:/Data main folder\up scholarship data for SU\main scholarship form.pdf
+c:/Data main folder\up scholarship data for SU\pdf form scholarship pdf with all documents.pdf
+c:/Data main folder\up scholarship data for SU\registration.pdf
+c:/Data main folder\up scholarship data for SU\up scholarship data for SU\check karane ko form.pdf
+c:/Data main folder\up scholarship data for SU\up scholarship data for SU\registration.pdf
